@@ -1,1 +1,39 @@
 /* Add your CSS Below */
+
+.one{
+    display: flex;
+    flex-direction: column;
+
+}
+
+ #oneB {
+    position: relative;
+    top:-20px;
+    right:-20px;
+
+}
+
+.two{
+    display:flex;
+    flex-direction: column;
+}
+#twoC{
+  position: absolute;
+  margin-left: 100px;
+  }
+
+.three{
+    display:flex;
+    flex-direction: column;
+}
+
+#threeA {
+position: fixed;
+left: 500px;
+bottom:100px;
+
+
+  
+}
+
+
